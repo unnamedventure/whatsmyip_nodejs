@@ -1,2 +1,5 @@
 ipthing
-=======npm install
+
+To install:
+
+npm install
